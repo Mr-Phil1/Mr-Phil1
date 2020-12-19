@@ -9,6 +9,9 @@ Skills: Linux, Java, Bash
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/Mr-Phil1)
 
+[![GitLab: Mr-Phil1](https://img.shields.io/badge/Mr--Phil1-This%20is%20the%20Way%20to%20my%20GitLab-red?style=plastic&logo=gitlab)](https://gitlab.com/Mr-Phil1)
+[![Linkedin: Maar P.](https://img.shields.io/badge/-Maar%20P-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philipp-m-0529b2150)](https://www.linkedin.com/in/philipp-m-0529b2150)
+
 <!---### Hi there 👋
 
 [![Mr-Phil1 github stats](https://github-readme-stats.vercel.app/api?username=mr-phil1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

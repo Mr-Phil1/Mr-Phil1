@@ -2,6 +2,7 @@
 
 Skills: Linux, Java, Bash
 
+- 📫 How to reach me: mr.phil1@gmx.net
 - 🌱 I’m currently learning Java, Cisco-Network, MySQL
 
 ![GitHub metrics](https://metrics.lecoq.io/mr-phil1)  
